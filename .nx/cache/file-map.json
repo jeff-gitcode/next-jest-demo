@@ -1,0 +1,151 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.5",
+  "deps": {
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "server-only": "^0.0.1",
+    "@nx/storybook": "^18.0.5",
+    "@testing-library/jest-dom": "6.1.5",
+    "@testing-library/react": "14.1.2",
+    "@types/jest": "29.5.11",
+    "@types/react": "18.2.45",
+    "jest": "29.7.0",
+    "jest-environment-jsdom": "29.7.0",
+    "typescript": "5.3.3"
+  },
+  "pathMappings": {
+    "@/components/*": [
+      "components/*"
+    ],
+    "@/pages/*": [
+      "pages/*"
+    ],
+    "@/styles/*": [
+      "styles/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "15751075988610075934"
+      },
+      {
+        "file": "Dockerfile",
+        "hash": "4559002245163645203"
+      },
+      {
+        "file": "README.md",
+        "hash": "6534754262145184717"
+      },
+      {
+        "file": "__tests__/__snapshots__/snapshot.tsx.snap",
+        "hash": "16376883140309722265"
+      },
+      {
+        "file": "__tests__/index.test.tsx",
+        "hash": "7749872975639914111"
+      },
+      {
+        "file": "__tests__/snapshot.tsx",
+        "hash": "3155585859882402383"
+      },
+      {
+        "file": "app/blog/[slug]/page.test.tsx",
+        "hash": "12317335614377966626"
+      },
+      {
+        "file": "app/blog/[slug]/page.tsx",
+        "hash": "7864999914463583718"
+      },
+      {
+        "file": "app/counter.test.tsx",
+        "hash": "17014407117868966290"
+      },
+      {
+        "file": "app/counter.tsx",
+        "hash": "16168252671685595218"
+      },
+      {
+        "file": "app/layout.tsx",
+        "hash": "12464527537436934961"
+      },
+      {
+        "file": "app/page.test.tsx",
+        "hash": "6033568018866353769"
+      },
+      {
+        "file": "app/page.tsx",
+        "hash": "2253989747325318479"
+      },
+      {
+        "file": "app/utils/add.test.ts",
+        "hash": "7203393240215131883"
+      },
+      {
+        "file": "app/utils/add.ts",
+        "hash": "4638507416317047113"
+      },
+      {
+        "file": "docker-compose.yml",
+        "hash": "2384524571207464951"
+      },
+      {
+        "file": "jest.config.js",
+        "hash": "3373332296119186354"
+      },
+      {
+        "file": "jest.setup.js",
+        "hash": "18357289168118400044"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "10311648112229115615"
+      },
+      {
+        "file": "package.json",
+        "hash": "15980344035272335497"
+      },
+      {
+        "file": "pages/_app.tsx",
+        "hash": "8838744221179943668"
+      },
+      {
+        "file": "pages/home/index.tsx",
+        "hash": "4275807986350466625"
+      },
+      {
+        "file": "pages/index.module.css",
+        "hash": "2980133861428111695"
+      },
+      {
+        "file": "public/favicon.ico",
+        "hash": "12793503388389868665"
+      },
+      {
+        "file": "public/vercel.svg",
+        "hash": "3233056503954796132"
+      },
+      {
+        "file": "styles/global.css",
+        "hash": "16708749359576983685"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "10791156036204121244"
+      },
+      {
+        "file": "types.d.ts",
+        "hash": "18365705814106615013"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "15335587763399820549"
+      }
+    ]
+  }
+}
